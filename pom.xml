@@ -11,7 +11,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.2.4.RELEASE</version>
+			<version>6.1.14</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
@@ -24,7 +24,7 @@
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-jpa</artifactId>
-			<version>2.3.1.RELEASE</version>
+			<version>3.2.11</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
@@ -45,17 +45,17 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-web</artifactId>
-			<version>5.2.0.RELEASE</version>
+			<version>6.2.7</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-config</artifactId>
-			<version>5.2.0.RELEASE</version>
+			<version>6.2.7</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
-			<version>5.2.0.RELEASE</version>
+			<version>6.2.7</version>
 		</dependency>
 
 	</dependencies>
